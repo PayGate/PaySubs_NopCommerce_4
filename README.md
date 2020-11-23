@@ -1,7 +1,7 @@
 # PaySubs_NopCommerce_4
-## DPO PayGate PaySubs1 (VCS) NopCommerce plugin v1.0.0 for NopCommerce v4.10
+## PayGate PaySubs1 (VCS) NopCommerce plugin v1.0.0 for NopCommerce v4.10
 
-This is the DPO PayGate PaySubs (VCS) plugin for NopCommerce. Please feel free to contact the DPO PayGate support team at support@paygate.co.za should you require any assistance.
+This is the PayGate PaySubs (VCS) plugin for NopCommerce. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
 
 ## Installation
 
