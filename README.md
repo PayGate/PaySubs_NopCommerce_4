@@ -5,7 +5,7 @@ This is the DPO PayGate PaySubs (VCS) plugin for NopCommerce. Please feel free t
 
 ## Installation
 
-Please navigate to the [releases page](https://github.com/PayGate/PaySubs_NopCommerce_4/releases), download the latest release (v1.0.0) and unzip. You will them be able to follow the integration guide PDF which is included in the zip.
+Please navigate to the [releases page](https://github.com/PayGate/PaySubs_NopCommerce_4/releases), download the latest release (v1.0.0) and unzip. You will then be able to follow the integration guide PDF which is included in the zip.
 
 ## Collaboration
 
